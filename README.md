@@ -1,8 +1,5 @@
-# Machine-Learning-Foundations
-Machine Learning &amp; Data Science Foundations Course (by Jon Krohn)
+# Machine-Learning-&-Data-Science-Foundations (by Jon Krohn)
 
-`Machine Learning Mastery - LinkedIn:` [Click here \ Acesse aqui](https://www.linkedin.com/company/machine-learning-mastery/)
+`ML & DS Foundations Masterclass - Udemy Website:` [Click here \ Acesse aqui](https://www.udemy.com/course/machine-learning-data-science-foundations-masterclass/)
 
-`Machine Learning Mastery - Website:` [Click here \ Acesse aqui](https://machinelearningmastery.com/)
-
-`Jason Brownlee - LinkedIn:` [Click here \ Acesse aqui](https://www.linkedin.com/in/jasonbrownlee/)
+`Jon Krohn - LinkedIn:` [Click here \ Acesse aqui](https://www.linkedin.com/in/jonkrohn/)
